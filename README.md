@@ -1,25 +1,163 @@
+<div align="center">
 
-# About Me:
-## About Me<br><br>Hi, I’m **Naveen**   <br>An **EEE undergraduate student** transitioning into **Frontend & Full-Stack Development**, with a strong interest in building **clean, practical, and scalable web applications**.<br><br>I focus on **learning by building** — turning ideas into real projects rather than just completing tutorials. My background in **engineering fundamentals** helps me approach problems logically and write structured, maintainable code.<br><br>I’m currently strengthening my skills in **modern JavaScript frameworks**, backend APIs, and real-world project workflows while preparing for **internships and entry-level developer roles**.<br><br>---<br><br> ##  What I’m Currently Doing<br><br>-  Learning **Advanced React & Backend Integration**<br>-  Building **real-world frontend & full-stack projects**<br>-  Improving **code quality, structure, and GitHub presence**<br>- Exploring **AI + Web Development** use cases<br><br>---<br><br>##  Tech Stack<br><br>###  Frontend<br>- HTML5<br>- CSS3<br>- JavaScript (ES6+)<br>- React.js<br><br>###  Backend<br>- Node.js<br>- Express.js<br><br>###  Database<br>- SQL<br>- MongoDB (Basics)<br><br>###  Programming<br>- Python<br><br>###  Tools & Platforms<br>- Git & GitHub<br>- VS Code<br>- Postman<br>- Bootstrap<br><br>---<br><br>##  Projects Focus<br><br>- Frontend web applications<br>- API-based projects<br>- Problem-solving using JavaScript & Python<br>- Clean UI with responsive design<br><br>---<br><br>##  Goals<br><br>- Secure a **developer internship**<br>- Grow into a **strong full-stack developer**<br>- Build products that solve **real problems**<br>- Contribute to **open-source projects**<br><br>---<br><br>##  Connect With Me<br><br>- GitHub: https://github.com/naveenchamp<br>- LinkedIn: https://linkedin.com/in/naveen-reddy-tippasani-5500402a5<br>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen+Reddy;Full-Stack+Developer+%7C+EEE+Undergrad;Building+the+web%2C+one+commit+at+a+time." alt="Typing SVG" />
 
+<br/>
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-reddy-tippasani-5500402a5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NaveenReddy_777) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TickingTech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenreddytippasani7@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=100&section=header&animation=fadeIn" width="100%"/>
 
-#  Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naveenchamp&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naveenchamp&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenchamp&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naveenchamp&theme=highcontrast&no-frame=true&no-bg=false&margin-w=4)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naveenchamp&limit=5&theme=aura&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naveenchamp&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### `$ whoami`
+
+```bash
+Name    : Naveen Reddy Tippasani
+Role    : Full-Stack Developer
+Status  : Open to Internships ✅
+Focus   : Web Apps + AI Integration
+Mindset : Learn by Building 🔨
+```
+
+</td>
+<td align="center" width="50%">
+
+### `$ cat interests.json`
+
+```json
+{
+  "currently": "Advanced React + Next.js",
+  "building" : "Full-Stack & AI web apps",
+  "exploring": "System Design + DevOps",
+  "goal"     : "Developer Internship 2025",
+  "fun_fact" : "I skip tutorials, I ship."
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🚀 Deployment & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Projects That Ship
+
+<div align="center">
+
+| 🚀 Project | 💡 What It Does | 🛠️ Stack |
+|:-----------|:----------------|:---------|
+| **Student Companion** | AI-powered productivity platform for students | React, Node.js, OpenAI API |
+| **Collaborative Text Editor** | Real-time multi-user editing — Google Docs vibes | Socket.IO, Express, MongoDB |
+| **SMART SPACES** | Modular smart home ecosystem concept & UI | React, REST APIs |
+| **OpenAI Buildathon** | Generative AI solution built under competition pressure | Node.js, OpenAI, Vercel |
+
+</div>
+
+> 💬 *I don't collect certificates — I collect deployed URLs.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naveenchamp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=naveenchamp&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenchamp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="40%" />
+
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=naveenchamp&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenchamp&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-reddy-tippasani-5500402a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-See_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenchamp)
+[![X](https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NaveenReddy_777)
+[![YouTube](https://img.shields.io/badge/YouTube-TickingTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TickingTech)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenreddytippasani7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A3D62,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+**"The best way to learn is to build something real."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=naveenchamp&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
